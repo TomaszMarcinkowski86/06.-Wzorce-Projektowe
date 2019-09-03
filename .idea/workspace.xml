@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3413b2b-c2ba-4b1d-9aa1-4dda63611e00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/design-patterns-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_picocli_picocli_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_2_14_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_antlr_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_junit_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_ant_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_cli_commons_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_cli_picocli_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_console_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_datetime_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_docgenerator_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_groovydoc_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_groovysh_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_jmx_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_jsr223_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_macro_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_nio_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_servlet_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_sql_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_swing_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_templates_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_test_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_test_junit5_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_testng_2_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spockframework_spock_core_1_3_groovy_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/patterns-buster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Calibra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Civic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Driveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Passat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/chainofresponsibility/Chain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SayHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SayNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SaySth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SayYes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/decorator/LuxuryCivic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/decorator/NewPassat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/decorator/SuperCalibra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/interpreter/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/interpreter/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/interpreter/From.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/interpreter/Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/interpreter/Where.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/iterator/IntegerBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/mediator/BaseConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/mediator/TopicConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/mediator/TopicMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/memento/CsvReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/memento/CsvReaderCaretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/observer/Broker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/observer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/observer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/state/JiraIssueContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/strategy/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/strategy/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/templatemethod/BootcampCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/templatemethod/BootcampStudentTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/templatemethod/JavaJunior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/Politician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/Profession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/ReductionVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/RiseUpVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/builder/LombokStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/factory/TheBestCarmaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/factory/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/factory/abstractfactory/FactoryProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/factory/factory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/prototype/CarCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/EagerInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/LazyInitializedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/PropertyLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/StaticBlockSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/ThreadSafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/Socket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketAdapterConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketClassAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketObjectAdapterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/Volt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/color/BlueColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/color/ColorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/color/GreenColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/bridge/color/RedColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/composite/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/facade/DryingRack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/facade/LaundryBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/facade/WashingFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/facade/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/flyweight/CarManufacture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/flyweight/CarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/flyweight/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/flyweight/JapaneeseCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/flyweight/Subaru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/flyweight/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/ReadyToMakeCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/Regular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/Senior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/proxy/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/resources/connection.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/resources/uml/adapter.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/resources/uml/proxy.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/behavioral/command/SaySthTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/behavioral/observer/BrokerTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/creational/prototype/CarCacheTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/creational/singleton/EagerInitializedSingletonTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/creational/singleton/LazyInitializedSingletonTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/creational/singleton/StaticBlockSingletonTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/creational/singleton/ThreadSafeSingletonTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/structural/flyweight/CarManufactureTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/chainofresponsibility/ChainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/decorator/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/interpreter/ContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/iterator/IntegerBoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/memento/CsvReaderCaretakerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/state/JiraIssueContextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/strategy/ShoppingCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/templatemethod/BootcampCourseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/visitor/ProfessionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/creational/builder/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/creational/factory/TheBestCarmakerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/structural/adapter/SocketAdapterConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/structural/bridge/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/structural/composite/CarRentalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/structural/facade/WashingFacadeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/structural/proxy/OfficeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/target/classes/connection.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/target/classes/uml/adapter.uml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-patterns-master/patterns-buster/target/classes/uml/proxy.uml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/design-patterns-master/patterns-buster/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="220" />
+    <option name="y" value="5" />
+    <option name="width" value="980" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectId" id="1PDtfbG3ALXy05Rwi1ORwa1pZuj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sda" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="design-patterns-master" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns-buster" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="uml" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/design-patterns-master/patterns-buster/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.pl.sda.App" />
+      <module name="patterns-buster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.pl.sda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3413b2b-c2ba-4b1d-9aa1-4dda63611e00" name="Default Changelist" comment="" />
+      <created>1565420598493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565420598493</updated>
+      <workItem from="1565420599666" duration="962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/resources/uml/adapter.uml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/resources/uml/proxy.uml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/resources/connection.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/groovy/pl/sda/patterns/behavioral/command/SaySthTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/test/java/pl/sda/patterns/behavioral/chainofresponsibility/ChainTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/design-patterns-master.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/Socket.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketAdapter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketAdapterConverter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/SocketObjectAdapterImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/structural/adapter/Volt.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Calibra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SayHi.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SayNo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SaySth.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/command/SayYes.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/EagerInitializedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/LazyInitializedSingleton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/PropertyLoader.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/StaticBlockSingleton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/singleton/ThreadSafeSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Driveable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Civic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/model/Passat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/behavioral/chainofresponsibility/Chain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/builder/LombokStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-patterns-master/patterns-buster/src/main/java/pl/sda/patterns/creational/builder/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>design-patterns-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
